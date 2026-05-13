@@ -16,28 +16,27 @@ Tasarım Dili: Material 3
 Widget Yapısı: StatefulWidget ve StatelessWidget mimarisi kullanılmıştır.
 
 Çalıştırma Adımları
-
-**Depoyu Klonlayın:**
+Depoyu Klonlayın:
 ```bash
-git clone [https://github.com/ZeynepKrc06/Flutter-Mobile-Book-Catalog.git](https://github.com/ZeynepKrc06/Flutter-Mobile-Book-Catalog.git)
+git clone https://github.com/ZeynepKrc06/Flutter-Mobile-Book-Catalog.git
+```
+
 Proje Dizinine Gidin:
-
-Bash
+```bash
 cd mini_katalog
-Bağımlılıkları Yükleyin:
+```
 
-Bash
+Bağımlılıkları Yükleyin:
+```bash
 flutter pub get
+```
+
 Uygulamayı Başlatın:
 
 Emülatörünüzün veya cihazınızın bağlı olduğundan emin olun.
-
-Bash
+```bash
 flutter run
-
-
-
-
+```
 
 <img width="562" height="1140" alt="1" src="https://github.com/user-attachments/assets/9d5d96f1-83fa-42ec-8660-47194082693e" />
 <img width="548" height="1146" alt="2" src="https://github.com/user-attachments/assets/30327df0-3c8e-478e-9c9f-9a8e7bcec245" />
